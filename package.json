@@ -1,16 +1,16 @@
 {
-  "name": "unittesting",
+  "name": "unittestingexercise",
   "version": "1.0.0",
   "type": "module",
   "description": "",
-  "main": "spec.js",
+  "main": "Test.js",
   "scripts": {
     "test": "mocha"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chai": "^5.0.3",
+    "chai": "^5.0.0",
     "mocha": "^10.2.0"
   }
 }
